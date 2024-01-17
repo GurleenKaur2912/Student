@@ -15,6 +15,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student 
 {
     private String name;
+    private int studentID;
 
     /**
      * @return the name
